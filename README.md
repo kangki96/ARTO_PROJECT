@@ -25,7 +25,7 @@
 
 #### OS(운영체제) : ubuntu18.04, linux
 
-#### Dev-Ops : docker, github, AWS EC2
+#### Dev-Ops : github
 
 #### Library/Framework : Axios, express, React-Native
 
